@@ -5,7 +5,8 @@
 
 https://github.com/user-attachments/assets/cf87d3b8-fbb8-41fa-95f2-b8b85a31aa1b
 
-#Emulator-Home-View
+Emulator-Home-View
+
 <img width="640" height="1422" alt="emulator_home" src="https://github.com/user-attachments/assets/b1fabb6f-4bdc-4f42-9e17-701cf0e1344c" />
  
 

@@ -1,0 +1,46 @@
+name: busypro_max
+description: "BusyProMax — a monochrome companion for quieter moments."
+publish_to: "none"
+version: 1.3.0+4
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.12.1
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5+1
+  shared_preferences: ^2.5.6
+  url_launcher: ^6.3.3
+  webview_flutter: ^4.14.1
+  http: ^1.6.0
+  flutter_secure_storage: ^11.2.0
+  video_player: ^2.14.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/OFL.txt
+    - assets/images/
+    - assets/images/activities/
+    - assets/video/
+  fonts:
+    - family: Tinos
+      fonts:
+        - asset: assets/fonts/Tinos-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Tinos-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Tinos-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Tinos-BoldItalic.ttf
+          weight: 700
+          style: italic

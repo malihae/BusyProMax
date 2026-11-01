@@ -1,4 +1,8 @@
 # BusyProMax
+#DEMO VIDEO
+
+https://github.com/user-attachments/assets/cf87d3b8-fbb8-41fa-95f2-b8b85a31aa1b
+
 
 ![BusyProMax app icon](assets/branding/app_icon.png)
 

@@ -1,10 +1,13 @@
+ <img width="3509" height="4963" alt="busypro_max_poster" src="https://github.com/user-attachments/assets/d2d70446-75cf-4bc7-9bfc-02ba00b296e5" />
+
 # BusyProMax
 #DEMO VIDEO
 
 https://github.com/user-attachments/assets/cf87d3b8-fbb8-41fa-95f2-b8b85a31aa1b
 
-
-![BusyProMax app icon](assets/branding/app_icon.png)
+#Emulator-Home-View
+<img width="640" height="1422" alt="emulator_home" src="https://github.com/user-attachments/assets/b1fabb6f-4bdc-4f42-9e17-701cf0e1344c" />
+ 
 
 BusyProMax is a monochrome Flutter companion for quieter moments — walking
 across campus, waiting between classes, or simply wanting somewhere calm to put
